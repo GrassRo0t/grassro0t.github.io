@@ -14,3 +14,4 @@ Thumbs.db
 # 日志、临时文件
 *.log
 .hugo_build*.lock
+temp.txt
