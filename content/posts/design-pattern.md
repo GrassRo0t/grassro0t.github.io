@@ -4,7 +4,7 @@ slug: "design-pattern"
 date: 2026-08-22T12:00:00+08:00
 draft: false   # true=草稿，构建默认忽略
 tags: ["设计模式", "c++"]
-categories: ["技术笔记", "面试高频"]
+categories: ["技术笔记"]
 summary: "常用23类设计模式，抽象工厂被归纳到工厂模式，包含面试高频设计模式。"
 toc: true
 comments: true
